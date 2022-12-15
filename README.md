@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-🔭 I’m currently working on DevOps Engineer<br>👯 I’m looking to collaborate on DevOps Project<br>🤝 I’m looking for help with Engineer Tech<br>🌱 I’m currently learning Programming and Servers<br>💬 Ask me about Tech.
+🔭 I’m currently working on DevOps Engineer<br>👯 I’m looking to collaborate on DevOps Project<br>🤝 I’m looking for help with Techical<br>🌱 I’m currently learning Programming and Servers<br>💬 Ask me about Tech.
 
 
 ## 🌐 Socials:
